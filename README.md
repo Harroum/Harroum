@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harroum
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me ? -> https://www.linkedin.com/in/ha2r0um/    Phone : +216 96 231 604 
 
 <!---
