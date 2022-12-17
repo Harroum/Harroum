@@ -46,9 +46,14 @@
 ![C#](https://img.shields.io/badge/C-Sharp-%23DD0031.svg?style=for-the-badge&logo=C#&logoColor=white)
 
 ### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF6C37?style=for-the-badge&logo=Laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-%23009639.svg?style=for-the-badge&logo=Symfony&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-%23F05033.svg?style=for-the-badge&logo=Codeigniter&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Databases
