@@ -63,7 +63,7 @@
 ## 💼 Skills and tools
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-%23ED8B00.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
