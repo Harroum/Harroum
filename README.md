@@ -5,7 +5,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=mouhamedhrr@gmail.com)
+
 <p align="left">
 
 <a href="https://linkedin.com/in/Harroum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Harroum/" height="30" width="40" /></a>
@@ -16,6 +16,7 @@
 
 </p>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=mouhamedhrr@gmail.com)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Maissen+Ayed%2C+Front+End+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
