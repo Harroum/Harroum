@@ -1,7 +1,7 @@
 # Hello World! 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/maissenayed.svg?style=social&label=Followers)](https://github.com/maissenayed?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/maissenayed.svg?style=social&label=Followers)](https://github.com/Harroum?tab=followers)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Mouhamed+Harroum%2C+Software+engineer%2C+and+a+Ethical+Hacker+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Mouhamed+Harroum %2C+Software+engineer%2C+and+a+Ethical+Hacker+)](https://git.io/typing-svg)
 ### Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Suikoden  fan***⚡🧙🏻‍♂️**
